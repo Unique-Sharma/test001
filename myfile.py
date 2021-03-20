@@ -1,5 +1,5 @@
 print ("this is good")
-c=10+20+309
+c=20+20+309
 print (c)
 
 print ("hello world")
